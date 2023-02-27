@@ -10,7 +10,7 @@
   </div>
 
   <p>
-    Check out <a href="https://github.com/banananyo" target="_blank" rel="noreferrer">Banananyo Github</a>
+    Check out <a href="https://github.com/wadjakorn/key-layout-converter" target="_blank" rel="noreferrer">Wadjakorn Github</a>
   </p>
 
   <p class="read-the-docs">
