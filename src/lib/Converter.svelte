@@ -67,6 +67,8 @@
 <br/>
 Result in {selectedFunc === EN_TH.toEn ? 'English':'ไทย'}
 <br/>
+<hr/>
+<br/>
 <p class="result">{result}</p>
 
 <style>
@@ -79,6 +81,5 @@ Result in {selectedFunc === EN_TH.toEn ? 'English':'ไทย'}
   .result {
     border-radius: 5%;
     padding: 2em;
-    background-color: rgb(208, 208, 208);
   }
 </style>
