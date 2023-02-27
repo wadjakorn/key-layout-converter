@@ -11,7 +11,7 @@
     }
 
     for (var a in full) {
-      reverse[full[i]] = a
+      reverse[full[a]] = a
     }
 
     return {
@@ -37,7 +37,6 @@
 
   const conv = () => {
     const input = document.getElementById('text') as HTMLInputElement
-    console.log(input.value)
     result = selectedFunc(input?.value ?? "")
   }
 
