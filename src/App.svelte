@@ -3,7 +3,9 @@
 </script>
 
 <main>
-  <h1>lullar de กำ</h1>
+  <h1>de = กำ</h1>
+
+  <p>ลืมเปลี่ยนภาษาใช่ไหม? แปะตรงนี้แล้วเลือกภาษาได้เลย</p>
 
   <div class="card">
     <Converter />
